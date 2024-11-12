@@ -37,7 +37,7 @@ const Profile = () => {
         </View>
       </View>
       
-      <Text style={styles.sectionTitle}>Favorite Tracks</Text>
+      <Text style={styles.sectionTitle}>Favorite Tracks</Text> 
       <FlatList 
         data={favoriteTracks}
         renderItem={renderTrack}

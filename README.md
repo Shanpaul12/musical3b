@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# MusicHub
+MusicHub
 
 # Features
 * Share Projects
